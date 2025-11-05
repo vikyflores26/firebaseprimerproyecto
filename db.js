@@ -17,13 +17,13 @@ const firebaseConfig = {
     //Esta información corresponde a mi cuenta de firebase
     //Cada proyecto tiene su propia configuración única
     //Reemplazá los valores por los de tu propio proyecto de Firebase si estás siguiendo este ejemplo
-    apiKey: "INGRESA TU API KEY",
-    authDomain: "INGRESA TU AUTH DOMAIN",
-    databaseURL: "INGRESA TU DATABASE URL",
-    projectId: "INGRESA TU PROJECT ID",
-    storageBucket: "INGRESA TU STORAGE BUCKET",
-    messagingSenderId: "INGRESA TU MESSAGING SENDER ID",
-    appId: "INGRESA TU APP ID"
+    apiKey: "AIzaSyBbwSHMtEhfMG1VEX9rbsmcdSqQ7I30ECk",
+    authDomain: "huerta2025viky.firebaseapp.com",
+    databaseURL: "https://huerta2025viky-default-rtdb.firebaseio.com",
+    projectId: "huerta2025viky",
+    storageBucket: "huerta2025viky.firebasestorage.app",
+    messagingSenderId: "817899329575",
+    appId: "1:817899329575:web:fbd297ff0695ae46d51602"
 };
 
 // Inicializamos la app de firebase
